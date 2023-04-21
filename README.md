@@ -30,3 +30,19 @@ dan hasilnya akan seperti berikut ini <br><br>
 ip : 192.168.1.1<br>
 user : root <br>
 pass : root
+
+<br><br>
+untuk akses menu breed <br>
+lepas power <br>
+tekan dan tahan tombol reset <br>
+tunggu sampai lampu lan berkedip <br>
+lalu lepaskan tombol reset <br>
+masuk dengan browser ke 192.168.1.1 
+selanjutnya lakukan proses update FW spt gambar berikut<br><br>
+
+<img src="Image2.jpg"><br><br>
+<img src="Image3.jpg"><br><br>
+<img src="Image4.jpg"><br><br>
+
+setelah sukses, router akan reboot, dan jika tidak ada masalah akan bisa di akses di 192.168.1.1 dengan user-pass root<br>
+
